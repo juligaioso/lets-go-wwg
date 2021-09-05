@@ -55,3 +55,4 @@ func (c conjunto) calculeMedia() float64 {
 	soma := c.some()
 	media := float64(soma) / float64(len(c))
 	return media
+}
